@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-from lib.corrector import Corrector
+from lib.corrector_v2 import Corrector
 
 """
 Aplicación web para corrección ortográfica que utiliza Flask y la biblioteca autocorrect.
